@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727186507 source:c:\users\youcode\desktop\c\variables\moyenne géométrique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
